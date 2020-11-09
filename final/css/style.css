@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	font-family: 'Noto Serif', serif!important;
+}
+.k14-sp-wrapper .sp-body-content .sp-detail p {
+	line-height:28px!important;
+	font-size: 21px!important;
+}
+.dropcap:first-letter{
+    font-size: 60px;
+    line-height: 60px;
+    display: block;
+    float: left;
+    margin-top: 3px!important;
+    margin-right: 10px;
+    padding: 0 10px 5px 10px;
+    vertical-align: text-top;
+    background: #ffc9c9;
+    color: #000;
+    font-weight: bold;
+}
